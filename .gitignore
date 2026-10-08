@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.py[cod]
+data/
+uploads/
+.vercel/
+.cache/
+node_modules/
+coverage/
